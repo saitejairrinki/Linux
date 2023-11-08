@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" modified="2023-11-07T06:22:04.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o3lC7D0vDeGhY29DE3vt" version="22.0.8" type="device">
+  <diagram name="Page-1" id="wz0ozQ1u9XPyjF26xKLg">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9B2xIIPJuyCRrlbQnCek-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="648.1399999999999" y="380" as="sourcePoint" />
+            <mxPoint x="525" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/sql_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="653.14" y="305" width="115.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="1" source="nTDi393a0BNN7DBwUhHA-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Notification.svg;" parent="1" vertex="1">
+          <mxGeometry x="450" y="560" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://o.remove.bg/downloads/18e5f806-796a-4ded-b394-b5b27a4fb520/Capture-removebg-preview.png;" parent="1" vertex="1">
+          <mxGeometry x="650" y="508.11" width="103.12" height="132.89" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeColor=#FFFFFF;" parent="1" source="nTDi393a0BNN7DBwUhHA-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tutoriels.lws.fr/wp-content/uploads/2022/05/crontab-300x157.png;" parent="1" vertex="1">
+          <mxGeometry x="80" y="315" width="267.52" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/file-type-50/512/Bash_shell_script-512.png;" parent="1" vertex="1">
+          <mxGeometry x="440" y="335" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" parent="1" source="nTDi393a0BNN7DBwUhHA-11" target="nTDi393a0BNN7DBwUhHA-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-28" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Regular Jobs&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="659.32" y="275" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-29" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Automation Script&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="419" y="276" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-30" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Build Result&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-31" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Tea Break&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="669.32" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTDi393a0BNN7DBwUhHA-33" value="&lt;font color=&quot;#ffffff&quot;&gt;SAITEJA IRRINKI&lt;br&gt;www.softwarelife.in&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="638.64" y="690" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9B2xIIPJuyCRrlbQnCek-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="360" as="targetPoint" />
+            <mxPoint x="520" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9B2xIIPJuyCRrlbQnCek-5" value="" style="shape=ellipse;fillColor=#00FFFF;strokeColor=none;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="698" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9B2xIIPJuyCRrlbQnCek-6" value="" style="shape=ellipse;fillColor=#FFFF66;strokeColor=none;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="713" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
