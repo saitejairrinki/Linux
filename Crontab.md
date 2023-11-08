@@ -8,6 +8,8 @@ Love your 4 PM tea break😍 but hate work interruptions😞? Automate tasks wit
 Cron is like your trustworthy assistant, always on time, and never late for work. It's a time-based job scheduler in Linux, perfect for automating tasks that coincide with your tea time. With cron, you can script routine tasks to run without your manual intervention. It's the key to keeping your tea break sacred. ☕⏰
 ### Scenario: Tea Time vs. Server Management 🍃
 
+![Gif](https://miro.medium.com/v2/resize:fit:720/1*xTAo91QOuhF1D6z7--LALQ.gif)
+
 Imagine you need to restart your servers every day at 4 PM. It's also the time when you like to enjoy your tea. So, how can you ensure that your servers are restarted without you having to babysit the process, and still be notified about the outcome? Here's the solution:
 
 1. **Setting Up the Cron Job**: Create a cron job that runs your server-restart script at 4 PM every day. To do this, open your terminal and type:
